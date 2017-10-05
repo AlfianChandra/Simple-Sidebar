@@ -1,0 +1,87 @@
+/*
+** SIDEBAR Plugin Stylesheet by Alfian Chandra
+** -------------------------------------------
+*/
+.sidebar-control
+{
+  position:fixed;
+  top:0;
+  opacity:0;
+  z-index:-1;
+  width:0%;
+  height:100%;
+  transition:ease-in-out 0.4s;
+}
+.sidebar-left
+{
+  left:0;
+}
+.sidebar-right
+{
+  right:0;
+}
+.sidebar-close
+{
+  display:none;
+  position:absolute;
+  right:0;
+  top:0;
+  background-color:transparent;
+  color:#fff;
+  border:none;
+  font-size:12px;
+  padding:10px;
+  z-index:1000;
+}
+.sidebar-body
+{
+  padding-top:40px;
+}
+.sidebar-show
+{
+  z-index:100;
+  width:25%;
+  opacity:1;
+}
+@media screen and (max-width:1366px)
+{
+  .sidebar-show
+  {
+    width:25%;
+  }
+}
+@media screen and (max-width:1000px)
+{
+  .sidebar-show
+  {
+    width:27%;
+  }
+}
+@media screen and (max-width:800px)
+{
+  .sidebar-show
+  {
+    width:35%;
+  }
+}
+@media screen and (max-width:700px)
+{
+  .sidebar-show
+  {
+    width:40%;
+  }
+}
+@media screen and (max-width:400px)
+{
+  .sidebar-show
+  {
+    width:100%;
+  }
+}
+@media screen and (max-width:400px)
+{
+  .sidebar-show
+  {
+    width:100%;
+  }
+}
