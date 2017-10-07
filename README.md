@@ -1,4 +1,3 @@
 # Simple Sidebar
 My first javascript plugin for creating simple sidebar
-
-<h3>How it works? Download and Read the Usage.html file.</h3>
+<a href='http://alfianchandra.me'>Visit My Site</a>
