@@ -11,7 +11,7 @@ And your sidebar is done. Just fit in any content inside of the sidebar.
 For Demo & Documentation:<br><br>
 <a class='chandra-btn' href='http://alfianchandra.me'>VISIT MY SITE</a>
 <style>
-.chandrabtn
+.chandra-btn
   {
     margin:0;
   padding:10px;
