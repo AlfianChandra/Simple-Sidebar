@@ -10,4 +10,3 @@ And your sidebar is done. Just fit in any content inside of the sidebar.
 <br><br>
 For Demo & Documentation:<br><br>
 <a href='http://alfianchandra.me'>VISIT MY SITE</a>
-<image src='https://ayuprint.co.id/wp-content/uploads/2015/08/Bendera-Merah-Putih-Vector-Corel-Draw-Indonesian-Flag-Red-White-Desain-01-Ayuprint-557x238.jpg'>
