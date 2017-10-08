@@ -9,14 +9,4 @@ How to make it work (Generally):<br>
 And your sidebar is done. Just fit in any content inside of the sidebar.
 <br><br>
 For Demo & Documentation:<br><br>
-<a class='chandra-btn' href='http://alfianchandra.me'>VISIT MY SITE</a>
-<style>
-.chandra-btn
-  {
-    margin:0;
-  padding:10px;
-  color:#fff;
-  background-color:rgb(0,150,255);
-  box-shadow:0px 0px 4px #bbb;
-  }
-</style>
+<a class='chandra-btn' style='background-colo:rgb(0,150,255)' href='http://alfianchandra.me'>VISIT MY SITE</a>
