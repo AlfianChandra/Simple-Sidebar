@@ -7,6 +7,3 @@ How to make it work (Generally):<br>
 3.Target the candidate div to be the sidebar.<br> 
 4.Set your favorite color for sidebar background.<br><br>
 And your sidebar is done. Just fit in any content inside of the sidebar.
-<br><br>
-For Demo & Documentation:<br><br>
-<a class='chandra-btn' style='background-colo:rgb(0,150,255)' href='http://alfianchandra.me'>VISIT MY SITE</a>
